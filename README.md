@@ -92,3 +92,43 @@ Her departman klasöründe:
 | ayse.test | BT | Erişim reddedildi |
 | deniz.test | InsanKaynaklari | Erişim ve klasör oluşturma başarılı |
 | deniz.test | BT | E
+
+## Ekran Görüntüleri
+
+### Grup üyeliği
+Standart kullanıcının GG_BT güvenlik grubuna üyeliği.
+
+![Grup üyeliği](01-grup-uyeligi.png)
+
+### GPO güncellemesi
+Bilgisayar ve kullanıcı ilkelerinin başarıyla güncellenmesi.
+
+![GPO güncellemesi](02-gpo-guncelleme.png)
+
+### Başarısız girişin incelenmesi
+4625 olayında hedef hesap ve oturum türü.
+
+![Başarısız giriş hesabı](03-basarisiz-giris-hesabi.png)
+
+Yanlış parolayı gösteren 0xC000006A alt durum kodu.
+
+![Yanlış parola](04-yanlis-parola.png)
+
+### Başarılı giriş
+Aynı hesap için 4624 başarılı oturum açma kaydı.
+
+![Başarılı giriş](05-basarili-giris.png)
+
+### Klasör izinleri
+BT klasöründe GG_BT grubuna verilen Modify izni.
+
+![BT klasör izinleri](06-bt-klasor-izinleri.png)
+
+### Departmanlar arası erişim testleri
+Mert hesabının Muhasebe paylaşımına erişiminin reddedilmesi.
+
+![Muhasebe erişim reddi](07-muhasebe-erisim-reddi.png)
+
+Ayşe hesabının BT paylaşımına erişiminin reddedilmesi.
+
+![BT erişim reddi](08-bt-erisim-reddi.png)
